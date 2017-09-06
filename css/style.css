@@ -76,7 +76,7 @@ body {
 	font-family: Arial,"Helvetica Neue",sans-serif;
     line-height: 19px;
     word-wrap: break-word;
-	background:rgb(255,255,255) url(http://powercomm.ryanjb.com/images/tilebg.jpg) repeat center
+	background:rgb(255,255,255) url(images/tilebg.jpg) repeat center
 }
 h1, .nav ul li {
 	font-family:Arial, sans-serif
@@ -257,14 +257,14 @@ header.page {
 	border:none
 }
 header.page a.logo {
-	background:url(http://powercomm.ryanjb.com/images/topleftlogo.png) no-repeat scroll 0 0 transparent;
+	background:url(images/topleftlogo.png) no-repeat scroll 0 0 transparent;
 	display:block;
 	width:280px;
 	height:30px;
 	border:none
 }
 header.page a.logo { position:relative;display:block; }
-header.page a.logo span { position:absolute;display:block;width:100%;height:100%;top:0;left:0;background:url(http://powercomm.ryanjb.com/images/topleftlogo.png) left bottom no-repeat !important }
+header.page a.logo span { position:absolute;display:block;width:100%;height:100%;top:0;left:0;background:url(images/topleftlogo.png) left bottom no-repeat !important }
 header.page img {
 	max-width:100%;
 	-webkit-transition:-webkit-transform 0.550s ease-in-out
@@ -507,7 +507,7 @@ form#enquiry .button:active {
 	width:60px;
 	height:30px;
 	margin:20px auto;
-	background:url(http://powercomm.ryanjb.com/images/up.png) 0 0 no-repeat
+	background:url(images/up.png) 0 0 no-repeat
 }
 
 .mt {
@@ -515,7 +515,7 @@ form#enquiry .button:active {
 	width:50px;
 	height:30px;
 	margin:20px auto;
-	background:url(http://powercomm.ryanjb.com/css_image/mt.png) 0 0 no-repeat
+	background:url(css_image/mt.png) 0 0 no-repeat
 }
 
 #info a {
@@ -529,7 +529,7 @@ form#enquiry .button:active {
 	left:0;
 	width:100%;
 	height:100%;
-	background:url(http://powercomm.ryanjb.com/css_image/trans.png) repeat
+	background:url(css_image/trans.png) repeat
 }
 #info a span span {
 	position:absolute;
@@ -538,7 +538,7 @@ form#enquiry .button:active {
 	width:21px;
 	height:21px;
 	margin:-11px 0 0 -11px;
-	background:url(http://powercomm.ryanjb.com/css_image/+.png) no-repeat
+	background:url(css_image/+.png) no-repeat
 }
 
 .social img {max-width:100% -webkit-transition:-webkit-transform 0.550s ease-in-out}
@@ -561,10 +561,10 @@ form#enquiry .button:active {
 .social a span { position:absolute;display:block;width:100%;top:0;left:0;background-position:center bottom !important }
 
 .up { position:relative;display:block; }
-.up span { position:absolute;display:block;width:100%;height:100%;top:0;left:0;background:url(http://powercomm.ryanjb.com/css_image/up.png) left bottom no-repeat !important }
+.up span { position:absolute;display:block;width:100%;height:100%;top:0;left:0;background:url(css_image/up.png) left bottom no-repeat !important }
 
 .mt { position:relative;display:block; }
-.mt span { position:absolute;display:block;width:100%;height:100%;top:0;left:0;background:url(http://powercomm.ryanjb.com/css_image/mt.png) left bottom no-repeat !important }
+.mt span { position:absolute;display:block;width:100%;height:100%;top:0;left:0;background:url(css_image/mt.png) left bottom no-repeat !important }
 
 @media screen and (max-width:767px) {
 blockquote {
